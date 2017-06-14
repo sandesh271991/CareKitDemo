@@ -7,6 +7,7 @@
 //
 
 import UIKit
+import CareKit
 
 @UIApplicationMain
 class AppDelegate: UIResponder, UIApplicationDelegate {
